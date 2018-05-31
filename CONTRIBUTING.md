@@ -43,7 +43,6 @@ Want to join the StoryEngine conversation? Have a question? Join our [StoryEngin
 Suggesting edits or improvements to the following is another good place to start (label them `suggestions`):
 - [README](https://github.com/LoupDesign/StoryEngine/blob/master/README.md) 
 - [StoryEngine Guide](https://storyengine.io/guide) 
-
 * Note that we appreciate specific suggestions and recommendations on how to improve our content. Feel free to make a suggestion if anything feels missing or incomplete. We are also looking for any copy errors. (Does it make sense? Do you understand it? Can you find all the information that you need? Are there any typos?)
 
 ## Issue and Pull Request Labels
